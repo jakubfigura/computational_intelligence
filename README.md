@@ -5,8 +5,8 @@
 This repository contains solutions form Computational Intelligence course on Jagiellonian University.
 # Table of Contents
 
-1. [FFNN](#Feed Forward Neural Network)
-2. [SOM](#Self organising map)
+1. [FFNN](#Feed_Forward_Neural_Network)
+2. [SOM](#Self_organising_map)
 
 <br/>
 
